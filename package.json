@@ -16,7 +16,6 @@
     "type": "git",
     "url": "git+https://github.com/RukkiesMan/encoding-algorithms.git"
   },
-  "author": "Alekseev Pavel <pavelekseev@gmail.com>",
   "bugs": {
     "url": "https://github.com/RukkiesMan/encoding-algorithms/issues"
   },
@@ -49,6 +48,6 @@
     "huffman",
     "unary"
   ],
-  "author": "",
+  "author": "Alekseev Pavel <pavelekseev@gmail.com>",
   "license": "MIT"
 }
