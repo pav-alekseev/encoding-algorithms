@@ -31,5 +31,7 @@ export default (text) => {
   const tree = getTree(sortedFreqPairs);
   const codes = getCodes(tree);
 
-  return codes;
+  return [...text]
+    .map(letter => codes[letter])
+    .join('');
 };
