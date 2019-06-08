@@ -19,6 +19,7 @@
   "bugs": {
     "url": "https://github.com/RukkiesMan/encoding-algorithms/issues"
   },
+  "homepage": "https://github.com/RukkiesMan/encoding-algorithms#readme",
   "dependencies": {
     "decimal-to-binary": "^1.0.3",
     "lodash": "^4.17.11",
