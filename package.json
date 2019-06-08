@@ -5,7 +5,7 @@
   "bin": {
     "shennon-fano-coding": "dist/bin/shennon-fano-coding.js",
     "elias-gamma-coding": "dist/bin/elias-gamma-coding.js",
-    "huffman-coding": "dist/bin/huffman-coding",
+    "huffman-coding": "dist/bin/huffman-coding.js",
     "unary-coding": "dist/bin/unary-coding.js"
   },
   "files": [
