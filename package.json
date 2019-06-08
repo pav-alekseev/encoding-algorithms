@@ -1,7 +1,7 @@
 {
   "name": "encoding-algorithms",
   "version": "1.0.0",
-  "description": "Set of Shennon-Fano, Elias gamma, Huffman and Unary codings",
+  "description": "Set of Shennon-Fano, Elias gamma, Huffman and Unary encoding algorithms",
   "main": "index.js",
   "bin": {
     "shennon-fano-coding": "dist/bin/shennon-fano-coding.js",
@@ -12,6 +12,10 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RukkiesMan/encoding-algorithms.git"
+  },
   "dependencies": {
     "decimal-to-binary": "^1.0.3",
     "lodash": "^4.17.11",
