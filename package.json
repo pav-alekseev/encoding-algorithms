@@ -35,7 +35,16 @@
     "build": "NODE_ENV=production babel src --out-dir dist --source-map inline",
     "start": "npm run build && node dist/index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "encoding",
+    "algorithm",
+    "encoding-algorithm",
+    "encoding-algorithms",
+    "shennon-fano",
+    "elias-gamma",
+    "huffman",
+    "unary"
+  ],
   "author": "",
   "license": "MIT"
 }
