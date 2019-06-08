@@ -3,9 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "shennon-fano-coding": "dist/bin/shennon-fano-coding.js",
+    "elias-gamme-coding": "dist/bin/elias-gamme-coding.js", 
+    "huffman-coding": "dist/bin/huffman-coding",
+    "unary-coding": "dist/bin/unary-coding.js"
+  },
+  "files": [
+    "dist"
+  ],
   "dependencies": {
     "decimal-to-binary": "^1.0.3",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.11",
+    "readline-sync": "^1.4.9"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
