@@ -5,7 +5,7 @@
   "main": "index.js",
   "bin": {
     "shennon-fano-coding": "dist/bin/shennon-fano-coding.js",
-    "elias-gamme-coding": "dist/bin/elias-gamma-coding.js", 
+    "elias-gamma-coding": "dist/bin/elias-gamma-coding.js", 
     "huffman-coding": "dist/bin/huffman-coding",
     "unary-coding": "dist/bin/unary-coding.js"
   },
