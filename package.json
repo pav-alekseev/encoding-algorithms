@@ -1,10 +1,10 @@
 {
   "name": "encoding-algorithms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set of Shennon-Fano, Elias gamma, Huffman and Unary encoding algorithms",
   "bin": {
     "shennon-fano-coding": "dist/bin/shennon-fano-coding.js",
-    "elias-gamma-coding": "dist/bin/elias-gamma-coding.js", 
+    "elias-gamma-coding": "dist/bin/elias-gamma-coding.js",
     "huffman-coding": "dist/bin/huffman-coding",
     "unary-coding": "dist/bin/unary-coding.js"
   },
