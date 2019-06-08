@@ -16,6 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/RukkiesMan/encoding-algorithms.git"
   },
+  "author": "Alekseev Pavel <pavelekseev@gmail.com>",
   "dependencies": {
     "decimal-to-binary": "^1.0.3",
     "lodash": "^4.17.11",
