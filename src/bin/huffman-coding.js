@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import getData from '..';
-import huffman from '../codings/shennon-fano';
+import huffman from '../codings/huffman';
 
 const data = getData();
 const result = huffman(data);
