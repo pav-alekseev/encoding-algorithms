@@ -6,4 +6,4 @@ import huffman from '../codings/huffman';
 const data = getData();
 const result = huffman(data);
 
-console.log(`Result: ${result}`);
+console.log(`Результат: ${result}`);

@@ -6,4 +6,4 @@ import eliasGamme from '../codings/elias-gamma';
 const data = getData();
 const result = eliasGamme(data);
 
-console.log(`Result: ${result}`);
+console.log(`Результат: ${result}`);

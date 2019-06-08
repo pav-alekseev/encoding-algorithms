@@ -6,4 +6,4 @@ import unary from '../codings/unary';
 const data = getData();
 const result = unary(data);
 
-console.log(`Result: ${result}`);
+console.log(`Результат: ${result}`);

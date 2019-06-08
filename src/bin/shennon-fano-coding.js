@@ -6,4 +6,4 @@ import shennonFano from '../codings/shennon-fano';
 const data = getData();
 const result = shennonFano(data);
 
-console.log(`Result: ${result}`);
+console.log(`Результат: ${result}`);
