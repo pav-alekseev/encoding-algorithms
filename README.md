@@ -13,7 +13,7 @@ $ sudo npm install -g encoding-algorithms
 * Unary: `unary-coding`
 
 ## Project Status
-The project is completed.
+Project completed
 
 ## License
 This project is licensed under the MIT License
