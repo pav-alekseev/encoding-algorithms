@@ -1,5 +1,5 @@
 # encoding-algorithms
-This is a set of the Shennon-Fano, Elias gamma, Huffman and Unary encoding algorithms written in JS
+This is a set of the Shennon-Fano, Elias gamma, Huffman and Unary encoding algorithms written in functional JS
 
 ## Installation
 ```sh
