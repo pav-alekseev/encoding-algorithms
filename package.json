@@ -1,7 +1,7 @@
 {
   "name": "encoding-algorithms",
   "version": "1.0.4",
-  "description": "Set of Shennon-Fano, Elias gamma, Huffman and Unary encoding algorithms",
+  "description": "Set of Shennon-Fano, Elias gamma, Huffman and Unary encoding algorithms written in functional JS",
   "bin": {
     "shennon-fano-coding": "dist/bin/shennon-fano-coding.js",
     "elias-gamma-coding": "dist/bin/elias-gamma-coding.js",
