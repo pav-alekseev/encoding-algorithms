@@ -21,7 +21,7 @@
   "homepage": "https://github.com/RukkiesMan/encoding-algorithms#readme",
   "dependencies": {
     "decimal-to-binary": "^1.0.3",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "readline-sync": "^1.4.9"
   },
   "devDependencies": {
